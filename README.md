@@ -1,0 +1,1 @@
+creates EC2 instance with SSH and HTTP connection
